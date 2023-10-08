@@ -141,6 +141,8 @@ ol {
   font-style: normal;
   margin-top: 24px;
   margin-left: auto;
+  display: flex;
+  gap: 40px;
 }
 .address-list {
   display: flex;

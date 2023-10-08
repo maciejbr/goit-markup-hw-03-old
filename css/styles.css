@@ -142,6 +142,10 @@ ol {
   margin-top: 24px;
   margin-left: auto;
 }
+.address-list {
+  display: flex;
+  gap: 40px;
+}
 
 .heading-three {
   font-size: 36px;

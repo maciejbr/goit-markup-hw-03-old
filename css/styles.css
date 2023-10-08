@@ -106,6 +106,8 @@ ol {
   text-transform: uppercase;
   color: var(--color-logo);
   margin-right: 76px;
+  margin-bottom: 16px
+  display: inline-block;
 }
 .logo-header {
   color: #2e2f42;

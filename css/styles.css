@@ -345,8 +345,11 @@ ol {
 .footer {
   background-color: #2e2f42;
   color: var(--CLOUD, #f4f4fd);
+}
+footer {
   padding: 100px 0;
 }
+
 .visually-hidden {
   position: absolute;
   width: 1px;

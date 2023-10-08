@@ -196,6 +196,7 @@ ol {
 
 .filter-button :hover .filter-button :focus {
   background-color: var(--color-example);
+  border: 1px solid transparent;
 }
 
 .section-one {

@@ -107,7 +107,6 @@ ol {
   color: var(--color-logo);
   margin-right: 76px;
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .logo-header {
@@ -127,8 +126,6 @@ ol {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-top: 24px;
-  padding-bottom: 24px;
 }
 
 .portfolio-li {
@@ -141,10 +138,10 @@ ol {
 
 .address {
   font-style: normal;
-  margin-top: 24px;
   margin-left: auto;
   display: flex;
   gap: 40px;
+  padding: 24px 0;
 }
 .address-list {
   display: flex;
